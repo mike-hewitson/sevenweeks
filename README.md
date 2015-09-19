@@ -18,3 +18,6 @@ isbn_bf.rb too
 The above ruby scripts have been updated to correct syntax errors, to use the replacement BX-books.csv file and to use the hiredis gem properly.
 
 You will need to install ruby 2.2 for this!
+
+pre-populate.js needed to be changed to use fast-csv and some syntax
+added group_membership.tsv
